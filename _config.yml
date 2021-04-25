@@ -9,13 +9,13 @@ permalink:	/:title
 title:		peckto
 tagline:	'Projects'
 description:	'My projects.'
-url:		http://peckto.de
+url:		https://www.peckto.de
 commentsystem:	false
 disqus:		example
 
 author:
   name:		'Tobias Specht'
-  url:		http://peckto.de
+  url:		https://www.peckto.de
 
 paginate:	5
 
@@ -48,8 +48,8 @@ menu:
     url:	/about.html
     
 copyright:
-  author:	Peckto
-  url:		http://peckto.de
+  author:	peckto
+  url:		https://www.peckto.de
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
 
